@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "TruliaCharts"
-  s.version = "2.2.11"
+  s.version = "2.2.12"
   s.summary = "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)"
   s.homepage = "https://github.com/arifken/Charts"
   s.license = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
